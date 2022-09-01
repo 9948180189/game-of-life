@@ -10,6 +10,7 @@
     <artifactId>gameoflife-core</artifactId>
     <packaging>jar</packaging>
     <name>gameoflife-core</name>
+    <!-- Demo on Github webhooks-->
     <url>${HUDSON_URL}</url>
     <reporting>
         <plugins>
